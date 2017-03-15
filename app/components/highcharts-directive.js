@@ -64,7 +64,7 @@ function HighChartsController($scope, $element, $timeout) {
       max: 100,
       plotLines: [{
         color: 'black',
-        width: 1,
+        width: 2,
         value: 0
       }],
       labels: {

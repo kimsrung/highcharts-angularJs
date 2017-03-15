@@ -28,3 +28,6 @@ high-charts {
   height: 100%;
   display: block;
 }
+high-charts .highcharts-xaxis-grid .highcharts-grid-line {
+  stroke-width: 1;
+}
